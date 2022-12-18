@@ -1,6 +1,8 @@
 # Sky: Concert in the Light (Original Game Soundtrack)
 
-- **Artist:** Aurora Aksnes, Vincent Diamante <img style="float: right; width: 125px; margin-right: 50px;" src="cover.jpg">
+<img style="width: 250px;" src="cover.jpg">
+
+- **Artist:** Aurora Aksnes, Vincent Diamante
 - **Duration:** 00:48:48
 - **Genre:** Pop, Video Game
 - **Release Date:** 08.12.2022
